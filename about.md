@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about us!
 
-### More Information
+### Biography
 
-A place to include any other types of information that you'd like to include about yourself.
+tactileblog is a site for in-depth reviews, opinions, and random unclassified articles on anything that beeps, blinks, or moves.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tactileblog@outlook.com](mailto:tactileblog@outlook.com)
