@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to tactileblog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We're just getting things set-up, we hope to bring you the latest on anything that beeps, blinks, or moves very soon! Hang tight and enjoy this teaser!.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
