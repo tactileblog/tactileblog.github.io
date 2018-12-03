@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Welcome to tactileblog!
+title: First Post!
 ---
 
 Bringing you the latest on anything that beeps, blinks, or moves!
 
 ![_config.yml]({{ site.baseurl }}/images/tactile-logo-wht-bkgnd.png)
-
-Click on one of our reviews to get started!
