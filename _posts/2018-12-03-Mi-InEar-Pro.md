@@ -5,7 +5,7 @@ title: Xiaomi Mi-In Ear Headphones Pro
 
 Outlier Xiaomi, the Chinese electronics giant, relatively unknown outside Asia, is not one you’d expect to make one of the greatest daily driver in-ear headphones I’ve ever used, but they’ve managed to pull it off.
 
-![mie2]({{ site.baseurl }}/images/mie1)
+![mie1]({{ site.baseurl }}/images/mie1)
 
 ### Initial Impressions
 
