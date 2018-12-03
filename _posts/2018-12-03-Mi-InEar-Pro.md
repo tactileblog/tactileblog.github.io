@@ -5,13 +5,13 @@ title: Xiaomi Mi-In Ear Headphones Pro
 
 Outlier Xiaomi, the Chinese electronics giant, relatively unknown outside Asia, is not one you’d expect to make one of the greatest daily driver in-ear headphones I’ve ever used, but they’ve managed to pull it off.
 
-![mie1]({{ site.baseurl }}/images/mie1)
+![mie1](https://tactileblog.github.io/images/mie1.jpg)
 
 ### Initial Impressions
 
 Opening the neat white box, you’re greeted by a decent packaging effort. The CNC-milled aluminium headphones stand proud in their grey silicone holder, all concealed inside a clear plastic case. Upon removal and opening of the clear case, you’ll find the reasonably pliable, yet durable feeling cord. Xiaomi state that the cord is made of DuPont™ Kevlar®, and honestly it does feel quite durable, the microphonics are decent too, I’ve been wearing them all around quite a large campus and cable noise while walking is fairly unnoticeable. After unwrapping the cord and removing the headphones from the case, you’ll notice three additional sizes of ear-tip in addition to the medium ones included on the headphones themselves. Included on the cord about 10 cm down from the right headphone is a three button mic, one of the first that I’ve used that works flawlessly on my Google Pixel 2. Once in the hand, the headphones feel quite solid, each individual headphone, the mic, and the 3.5mm plug feel very well made and are all made out of the same high-quality aluminium. Once I got the headphones into my ears, I noticed that the medium ear-tips included didn’t seem to block out as much noise as I’d expected, switching to the larger ear-tips remedied this (Note: as usual for my own personal use I have purchased additional foam ear-tips for use with the headphones).
 
-![mie2]({{ site.baseurl }}/images/mie2)
+![mie2](https://tactileblog.github.io/images/mie2.jpg)
 
 ### Sound
 
