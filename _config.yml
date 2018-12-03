@@ -17,7 +17,7 @@ lang: en-US
 title: tactileblog.
 email: tactileblog@outlook.com
 description: Reviews - Opinions - Random Babble
-baseurl: https://tactileblog.github.io
+baseurl:
 url: https://tactileblog.github.io
 author:
   name:
