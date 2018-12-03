@@ -9,7 +9,7 @@ name: tactileblog
 description: Reviews - Opinions - Random Babble
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:  https://tactileblog.github.io/images/tactile-logo.png 
+avatar:  https://tactileblog.github.io/images/tactile-logo.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar:  https://tactileblog.github.io/images/tactile-logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
+  email:
   facebook:
   flickr:
   github: tactileblog
@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/jekyll-theme-basically-basic
