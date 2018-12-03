@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post!
+title: Hello World!
 ---
 
 Bringing you the latest on anything that beeps, blinks, or moves!
