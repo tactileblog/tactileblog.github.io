@@ -25,11 +25,16 @@ The Xiaomi In-Ear Headphones Pro have become my new favourite daily-drivers head
 
 ### Pros
 
-###### Incredible value for money, High-quality build and materials, All-day comfort, Balanced sound that makes for pleasurable cross-genre listening
+* ###### Incredible value for money.
+* ###### High-quality build and materials.
+* ###### All-day comfort.
+* ###### Balanced sound that makes for pleasurable cross-genre listening
 
 ### Cons
 
-###### Ear-tip sizing a little peculiar, Require more power to drive than some smartphones can provide, Need around 5 hours of burn-in to settle down bright highs.
+* ###### Ear-tip sizing a little peculiar.
+* ###### Require more power to drive than some smartphones can provide.
+* ###### Need around 5 hours of burn-in to settle down bright highs.
 
 ### For the Nerds
 
@@ -37,6 +42,5 @@ While opening the box, you might’ve noticed a little logo opposite the “Mi�
 
 ### Web links
 
-*[Manufacturer Website](https://www.mi.com/global/headphonesprohd/)
-
-*[Amazon Canada](https://www.amazon.ca/Xiaomi-Headphones-Definition-Hybrid-Dynamic/dp/B01NBAVDIG/ref=pd_sim_23_1?_encoding=UTF8&pd_rd_i=B01NBAVDIG&pd_rd_r=83143d43-ecfe-11e8-9ae7-f7bd06e3c933&pd_rd_w=Zw4gi&pd_rd_wg=C5E3e&pf_rd_i=desktop-dp-sims&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_p=f2db799a-cb6a-4ff5-b84b-b317891b94a8&pf_rd_r=N46JNTJ0WKWKQ58YEYPG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=N46JNTJ0WKWKQ58YEYPG)
+* [Manufacturer Website](https://www.mi.com/global/headphonesprohd/)
+* [Amazon Canada](https://www.amazon.ca/Xiaomi-Headphones-Definition-Hybrid-Dynamic/dp/B01NBAVDIG/ref=pd_sim_23_1?_encoding=UTF8&pd_rd_i=B01NBAVDIG&pd_rd_r=83143d43-ecfe-11e8-9ae7-f7bd06e3c933&pd_rd_w=Zw4gi&pd_rd_wg=C5E3e&pf_rd_i=desktop-dp-sims&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_p=f2db799a-cb6a-4ff5-b84b-b317891b94a8&pf_rd_r=N46JNTJ0WKWKQ58YEYPG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=N46JNTJ0WKWKQ58YEYPG)
