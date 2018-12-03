@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<h1>About</h1>
+
+<div class="entry">
+  <p>Some information about us!</p>
+
+<h3 id="biography">Biography</h3>
+
+<p>tactileblog is a site for in-depth reviews, opinions, and random unclassified articles on anything that beeps, blinks, or moves.</p>
+
+
+</div>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
