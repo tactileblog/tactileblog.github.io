@@ -23,12 +23,19 @@ As well as the aforementioned silicone ear-tips (sizes: S, M, L, & XL) and silic
 
 The Xiaomi In-Ear Headphones Pro have become my new favourite daily-drivers headphones because of their balanced sound, beautiful high-quality build, all-day wearable comfort, and worry-free, incredible value for money price. Their relative ease of purchase/availability (purchased with Prime on Amazon.ca) and lack of flashy branding combined with their excellent performance and build quality make them my recommendation (and personal preference) for a wired, daily driver, in-ear headphone.
 
-# Pros - Incredible value for money, High-quality build and materials, All-day comfort, Balanced sound that makes for pleasurable cross-genre listening
+#### Pros
 
-# Cons - Ear-tip sizing a little peculiar, Require more power to drive than some smartphones can provide, Need around 5 hours of burn-in to settle down bright highs.
+###### Incredible value for money, High-quality build and materials, All-day comfort, Balanced sound that makes for pleasurable cross-genre listening
+
+#### Cons
+
+###### Ear-tip sizing a little peculiar, Require more power to drive than some smartphones can provide, Need around 5 hours of burn-in to settle down bright highs.
 
 ### For the Nerds
 
 While opening the box, you might’ve noticed a little logo opposite the “Mi” logo on the grey silicone case. This is the “1More” logo, 1More is a headphone startup that is looking to do for headphones, what OnePlus did for smartphones (interesting name choice anyone?), that is offer an exceedingly premium product at prices that are accessible to the masses. Xiaomi partnering with 1More makes a ton of sense for both companies as the cross-marketing means that Xiaomi’s huge brand recognition in Asia opens the door for people to try 1More’s products backed by a name they trust, and it allows Xiaomi to be able to market a premium audio product with less of the R&D costs involved in entering the new market.
 
 ### Web links
+
+[Manufacturer Website](https://www.mi.com/global/headphonesprohd/)
+[Amazon Canada](https://www.amazon.ca/Xiaomi-Headphones-Definition-Hybrid-Dynamic/dp/B01NBAVDIG/ref=pd_sim_23_1?_encoding=UTF8&pd_rd_i=B01NBAVDIG&pd_rd_r=83143d43-ecfe-11e8-9ae7-f7bd06e3c933&pd_rd_w=Zw4gi&pd_rd_wg=C5E3e&pf_rd_i=desktop-dp-sims&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_p=f2db799a-cb6a-4ff5-b84b-b317891b94a8&pf_rd_r=N46JNTJ0WKWKQ58YEYPG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=N46JNTJ0WKWKQ58YEYPG)
