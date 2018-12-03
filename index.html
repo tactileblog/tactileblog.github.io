@@ -1,22 +1,23 @@
 ---
 layout: default
 ---
-<h1>About</h1>
+<article class="welcome">
+<h1>Welcome to tactileblog.</h1>
 
 <div class="entry">
-  <p>Some information about us!</p>
-
-<h3 id="biography">Biography</h3>
-
-<p>tactileblog is a site for in-depth reviews, opinions, and random unclassified articles on anything that beeps, blinks, or moves.</p>
+  <h6><p>tactileblog is a site for in-depth reviews, opinions, and random unclassified articles on anything that beeps, blinks, or moves.<br>
+     Check out one of our reviews below to get started!
+  </p></h6>
 
 
 </div>
+</article>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
         {{ post.excerpt }}
