@@ -21,7 +21,7 @@ Running the Mi In-Ear Headphones Pro through a testing playlist it became immedi
 
 As well as the aforementioned silicone ear-tips (sizes: S, M, L, & XL) and silicone cord wrap/holder, the Xiaomi Mi In-Ear Headphones Pro come with a soft drawstring pouch that stores the headphones with enough additional space for a 3.5mm to USB-C or Lightning dongle.
 
-![mie3](https://tactileblog.github.io/images/mie3.jpg)
+![mie3](https://tactileblog.github.io/images/mie3.jpeg)
 
 ### Final Thoughts
 
