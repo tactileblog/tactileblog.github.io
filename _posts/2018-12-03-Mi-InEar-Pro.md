@@ -5,13 +5,13 @@ title: Xiaomi Mi In-Ear Headphones Pro
 
 Outlier Xiaomi, the Chinese electronics giant, relatively unknown outside Asia, is not one you’d expect to make one of the greatest daily driver in-ear headphones I’ve ever used, but they’ve managed to pull it off.
 
-![mie1](https://tactileblog.github.io/images/mie1.jpg)
+![mie1](https://tactileblog.github.io/images/mie/mie1.jpg)
 
 ### Initial Impressions
 
 Opening the neat white box, you’re greeted by a decent packaging effort. The CNC-milled aluminium headphones stand proud in their grey silicone holder, all concealed inside a clear plastic case. Upon removal and opening of the clear case, you’ll find the reasonably pliable, yet durable feeling cord. Xiaomi state that the cord is made of DuPont™ Kevlar®, and honestly it does feel quite durable, the microphonics are decent too, I’ve been wearing them all around quite a large campus and cable noise while walking is fairly unnoticeable. After unwrapping the cord and removing the headphones from the case, you’ll notice three additional sizes of ear-tip in addition to the medium ones included on the headphones themselves. Included on the cord about 10 cm down from the right headphone is a three button mic, one of the first that I’ve used that works flawlessly on my Google Pixel 2. Once in the hand, the headphones feel quite solid, each individual headphone, the mic, and the 3.5mm plug feel very well made and are all made out of the same high-quality aluminium. Once I got the headphones into my ears, I noticed that the medium ear-tips included didn’t seem to block out as much noise as I’d expected, switching to the larger ear-tips remedied this (Note: as usual for my own personal use I have purchased additional foam ear-tips for use with the headphones).
 
-![mie2](https://tactileblog.github.io/images/mie2.jpg)
+![mie2](https://tactileblog.github.io/images/mie/mie2.jpg)
 
 ### Sound
 
@@ -21,7 +21,7 @@ Running the Mi In-Ear Headphones Pro through a testing playlist it became immedi
 
 As well as the aforementioned silicone ear-tips (sizes: S, M, L, & XL) and silicone cord wrap/holder, the Xiaomi Mi In-Ear Headphones Pro come with a soft drawstring pouch that stores the headphones with enough additional space for a 3.5mm to USB-C or Lightning dongle.
 
-![mie3](https://tactileblog.github.io/images/mie3.jpeg)
+![mie3](https://tactileblog.github.io/images/mie/mie3.jpeg)
 
 ### Final Thoughts
 
@@ -43,6 +43,8 @@ The Xiaomi In-Ear Headphones Pro have become my new favourite daily-drivers head
 ### For the Nerds
 
 While opening the box, you might’ve noticed a little logo opposite the “Mi” logo on the grey silicone case. This is the “1More” logo, 1More is a headphone startup that is looking to do for headphones, what OnePlus did for smartphones (interesting name choice anyone?), that is offer an exceedingly premium product at prices that are accessible to the masses. Xiaomi partnering with 1More makes a ton of sense for both companies as the cross-marketing means that Xiaomi’s huge brand recognition in Asia opens the door for people to try 1More’s products backed by a name they trust, and it allows Xiaomi to be able to market a premium audio product with less of the R&D costs involved in entering the new market.
+
+![mien](https://tactileblog.github.io/images/mie/mien.jpg)
 
 ### Web links
 
