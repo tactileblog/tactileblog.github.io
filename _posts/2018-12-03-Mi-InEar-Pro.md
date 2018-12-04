@@ -21,6 +21,8 @@ Running the Mi In-Ear Headphones Pro through a testing playlist it became immedi
 
 As well as the aforementioned silicone ear-tips (sizes: S, M, L, & XL) and silicone cord wrap/holder, the Xiaomi Mi In-Ear Headphones Pro come with a soft drawstring pouch that stores the headphones with enough additional space for a 3.5mm to USB-C or Lightning dongle.
 
+![mie3](https://tactileblog.github.io/images/mie3.jpg)
+
 ### Final Thoughts
 
 The Xiaomi In-Ear Headphones Pro have become my new favourite daily-drivers headphones because of their balanced sound, beautiful high-quality build, all-day wearable comfort, and worry-free, incredible value for money price. Their relative ease of purchase/availability (purchased with Prime on Amazon.ca) and lack of flashy branding combined with their excellent performance and build quality make them my recommendation (and personal preference) for a wired, daily driver, in-ear headphone.
