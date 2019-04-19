@@ -4,7 +4,8 @@ title:
 permalink: /contact/
 ---
 
-    <iframe
+
+<iframe
       id="JotFormIFrame-91085463100246"
       onload="window.parent.scrollTo(0,0)"
       allowtransparency="true"
@@ -18,7 +19,7 @@ permalink: /contact/
       border:none;"
       scrolling="no"
     >
-    </iframe>
+</iframe>
     <script type="text/javascript">
       var ifr = document.getElementById("JotFormIFrame-91085463100246");
       if(window.location.href && window.location.href.indexOf("?") > -1) {
